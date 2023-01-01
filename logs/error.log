@@ -4639,3 +4639,13 @@
 2022/09/21 10:31:42 [error] 14732#12456: *14 CreateFile() "D:\Software\nginx-server/html/relic/undefined_undefined_8.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined_undefined_8.jpg HTTP/1.1", host: "localhost:8086", referrer: "http://localhost:3010/"
 2022/09/21 10:31:42 [error] 14732#12456: *15 CreateFile() "D:\Software\nginx-server/html/relic/undefined_undefined_9.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined_undefined_9.jpg HTTP/1.1", host: "localhost:8086", referrer: "http://localhost:3010/"
 2022/09/21 10:31:42 [error] 14732#12456: *16 CreateFile() "D:\Software\nginx-server/html/relic/undefined_undefined_10.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined_undefined_10.jpg HTTP/1.1", host: "localhost:8086", referrer: "http://localhost:3010/"
+2023/01/01 22:40:29 [emerg] 18380#21896: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 22:43:40 [emerg] 1360#15808: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 22:43:43 [emerg] 12476#17528: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 22:45:48 [emerg] 11360#18908: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 22:46:16 [emerg] 17616#21424: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 22:47:26 [emerg] 19460#1564: unknown directive "﻿" in D:\Software\nginx\relic_nginx/conf/nginx.conf:2
+2023/01/01 23:15:00 [emerg] 19748#2508: CreateDirectory() "D:\Software\nginx\relic_nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/01/01 23:15:19 [emerg] 21468#12048: CreateDirectory() "D:\Software\nginx\relic_nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/01/01 23:16:49 [emerg] 23388#10512: CreateDirectory() "D:\Software\nginx\relic_nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2023/01/01 23:17:17 [emerg] 22896#18872: CreateDirectory() "D:\Software\nginx\relic_nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
